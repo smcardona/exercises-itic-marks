@@ -1,0 +1,46 @@
+/* Hecho por Nacho Loayza, Santiago Muñoz */
+/*1. color general de la lletra negra*/
+.paragraf1, .paragraf2 {
+  color: black;
+}
+
+/*2. titol nivell 1 fons blanc lletra gris*/
+#titol-pagina {
+  background-color: white;
+  color: grey;
+}
+
+/*3. tots els strong en color verd i subratllats*/
+strong, .paragraf2 strong {
+  color: green;
+  text-decoration: underline;
+}
+
+/*4. enllaços del paràgraf2 en italica*/
+.paragraf2 a {
+  font-style: italic;
+}
+
+/*5. footer general del web centrat i lletra de 10px*/
+#container > footer {
+  text-align: center;
+  font-size: 10px;
+}
+
+/*6. Canvia l'ordre de càrrega dels fitxers i mira què passa. Sabries modificar el teu codi per a que se seguís veient igual que abans de canviar l'ordre?*/
+
+/*
+a) Cuando cambiamos el orden de imporaticón de los ficheros CSS
+al estar empatados los estilos de strong, con los estilos del otro CSS,
+se tiene en cuenta el ultimo estilo que se ha definido dentro del último css importado,
+es por esto que los strong pasan de ser verdes a lila y azul
+
+b) Para solucionar esto solo hace falta ser un poco más especifico
+en la linea 14, en vez de colocar "strong, .paragraf2 strong"
+colocamos "#container strong"
+*/
+
+#container strong {
+  color: green;
+  text-decoration: underline;
+}

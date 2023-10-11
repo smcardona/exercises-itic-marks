@@ -1,0 +1,75 @@
+/* En este fichero estan todos los estilos en general */
+table tr * {
+  border: 2px solid black;
+  padding: 10px 5px;
+}
+
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+tr th {
+  background-color: lightgray;
+  border: none;
+}
+
+h1 {
+  text-align: center;
+  font-weight: bold;
+  color: darkcyan;
+}
+
+table {
+  border: 2px solid black;
+  border-collapse: collapse;
+  margin: auto;
+  height: 10px;
+  width: 50%;
+}
+
+table caption {
+  color: red;
+}
+
+tr {
+  height: 10px;
+  background-color: #ffffffff;
+  transition: background 2s ease, border 0s, font 0s, height .5s, background-color 2s ease;
+}
+
+tr:hover td {
+  border: transparent solid 2px;
+}
+
+table tr:nth-child(+4):hover {
+  background-color: red;
+}
+
+button {
+  padding: 15px;
+  border-radius: 5px;
+  background-color: darkgray;
+  width: 200px;
+  position: relative;
+}
+
+div {
+  position: fixed;
+  display: box;
+  width: 100%;
+  text-align: center;
+  bottom: 20px;
+}
+
+a button {
+  cursor: pointer;
+  margin: 20px;
+  color: black;
+  font-weight: bold;
+  border: none;
+}
+
+button:hover {
+  background-color: darkcyan;
+}

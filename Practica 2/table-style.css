@@ -1,0 +1,125 @@
+/* En este fichero solo los estilos para cada fila de cada la tabla para mostrar una imagen diferente por cada una.
+No es la mejor forma de hacer esto pero tampoco estamos usando javascript */
+table tr:nth-child(+2):hover {
+  background: center url("https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/blog/hero/mw-wz/WZM-PREREG-11-17-TOUT.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+}
+
+table tr:nth-child(+3):hover {
+  background: center url("https://media.vandal.net/i/960x640/146155/call-of-duty-modern-warfare-3-2023-202382413123437_2.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+}
+
+table tr:nth-child(+4):hover {
+  background: center url("https://media.vandal.net/i/960x640/126475/call-of-duty-warzone-20-2022915201838_8.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+  border: transparent;
+}
+
+table tr:nth-child(+5):hover {
+  background: center url("https://media.vandal.net/i/960x640/114624/call-of-duty-modern-warfare-2-2022-202291520134938_3.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+  border: transparent;
+}
+
+table tr:nth-child(+6):hover {
+  background: center url("https://media.vandal.net/i/960x640/105263/call-of-duty-vanguard-20218191949033_7.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+  border: transparent;
+}
+
+table tr:nth-child(+7):hover {
+  background: center url("https://media.vandal.net/i/960x640/86346/call-of-duty-black-ops-cold-war-20209919202853_2.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+  border: transparent;
+}
+
+table tr:nth-child(+8):hover {
+  background: center url("https://media.vandal.net/i/960x640/83592/call-of-duty-modern-warfare-2-remastered-202033014594983_1.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+  border: transparent;
+}
+
+table tr:nth-child(+9):hover {
+  background: center url("https://media.vandal.net/i/960x640/73760/call-of-duty-warzone-2020102011414139_1.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+  border: transparent;
+}
+
+table tr:nth-child(+10):hover {
+  background: center url("https://media.vandal.net/i/960x640/73760/call-of-duty-modern-warfare-2019-2019102111141291_1.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+  border: transparent;
+}
+
+table tr:nth-child(+11):hover {
+  background: center url("https://media.vandal.net/i/960x640/78025/call-of-duty-mobile-20191011832760_1.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+  border: transparent;
+}
+
+table tr:nth-child(+12):hover {
+  background: center url("https://media.vandal.net/i/960x640/57392/call-of-duty-black-ops-iiii-20188711593_4.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+  border: transparent;
+}
+
+table tr:nth-child(+13):hover {
+  background: center url("https://media.vandal.net/i/960x640/43652/call-of-duty-wwii-201742619144_1.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+  border: transparent;
+}
+
+table tr:nth-child(+14):hover {
+  background: center url("https://media.vandal.net/i/960x640/36500/call-of-duty-infinite-warfare-201652185413_1.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+  border: transparent;
+}
+
+table tr:nth-child(+15):hover {
+  background: center url("https://media.vandal.net/i/960x640/38791/call-of-duty-modern-warfare-remastered-201685113914_5.jpg") no-repeat;
+  height: 400px;
+  background-size: cover;
+  background-position: 0% center;
+  color: transparent;
+  border: transparent;
+}
