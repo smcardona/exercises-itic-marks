@@ -1,0 +1,76 @@
+<!-- Documento hecho por Nacho Loayza y Santiago Muñoz -->
+<!-- Documento solo para el formulario personal -->
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+  <meta charset="UTF-8">
+  <title>Formulario personal</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+  <h1>Formulario personal</h1>
+  <form action="formulari_enviat.html">
+    <div>
+      <label for="name">Nombre:</label><br>
+      <input class="text-input" type="text" id="name" name="name" required><br>
+    </div>
+
+    <div>
+      <label for="email">Correo electrónico:</label><br>
+      <input class="text-input" type="email" id="email" name="email" required><br>
+    </div>
+
+    <div>
+      <label for="fav-wpn">Arma favorita</label> <br>
+      <select name="fav-wpn" id="fav-wpn" required>
+        <!-- Esta primera opcion no cuenta como arma favorita -->
+        <option value="" disabled selected>Seleccionar</option>
+        <option value="ak">AK-47</option>
+        <option value="M4A1">M4A1</option>
+        <option value="M16">M16</option>
+        <option value="vss">VSS</option>
+      </select>
+      <br>
+    </div>
+
+    <div>
+      <label for="idcod">Id Call of duty:</label><br>
+      <input type="number" id="idcod" name="cod-id" required><br>
+    </div>
+
+    <div>
+      <p>En que plataformas juegas?</p>
+      <input type="checkbox" id="pc" name="pc" checked>
+      <label for="pc"> Ordenador</label><br>
+      <input type="checkbox" id="ps" name="ps">
+      <label for="ps"> PlayStation</label><br>
+      <input type="checkbox" id="Xbox" name="Xbox">
+      <label for="Xbox"> Xbox</label>
+    </div>
+    <div>
+      <p>Eres pro?</p>
+      <input type="radio" name="pro?" id="es-pro" checked>
+      <label for="es-pro"> Si soy 👑</label> <br>
+      <input type="radio" name="pro?" id="no-es-pro">
+      <label for="no-es-pro"> No soy 😔</label> <br>
+      <input type="radio" name="pro?" id="quiere-ser-pro">
+      <label for="quiere-ser-pro"> Quiero ser 🤩</label>
+    </div>
+
+    <div>
+      <label for="description">Descripción de tu perfil</label><br>
+      <textarea name="description" placeholder="Describe tus stats, tu experiencia, presume tus logros" id="description"
+        required></textarea>
+    </div>
+    <div>
+      <!-- Aqui parecia raro que no funcionaba el redireccionamiento, asi que el redireccionamiento lo configuramos directamente 
+      en el action del form, aqui no pasaba nada especial, redirigia a formulari.html?nombres...=valores... -->
+      <input class="btn" type="submit" name="submit" id="submit">
+      <input class="btn" type="reset" id="reset-button">
+    </div>
+  </form>
+</body>
+
+</html>
