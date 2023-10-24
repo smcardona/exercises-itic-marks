@@ -1,6 +1,7 @@
 /* Estilos hechos por Nacho Loayza y Santiago Muñoz */
 /* Estilos generales para todos los archivos html */
 
+/* Seccion de estilos para seguir los requerimientos del enunciado */
 body {
   background-color: lightgray;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
@@ -36,7 +37,9 @@ select:focus {
   color: white;
 }
 
-/* Estilos para mejorar la vista de los elementos */
+/* Estilos para mejorar la vista de los elementos 
+   No eran requeridos por el enunciado.
+*/
 
 textarea {
   resize: vertical;
