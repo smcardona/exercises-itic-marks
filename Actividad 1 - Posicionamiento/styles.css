@@ -79,13 +79,23 @@ section img {
   height: auto;
 }
 
-section button {
-  padding: 10px 20px;
+section>a {
+  width: 30%;
+}
+
+section a>button {
   border: none;
   border-radius: 0 0 10px 10px;
   background-color: var(--dark-bg);
   color: white;
-  width: 30%;
+  border: none;
+  width: 100%;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+section a>button:hover {
+  background-color: #002A3A;
 }
 
 
