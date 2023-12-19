@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE sexynyigs SYSTEM "practica6.dtd">
+<sexynyigs>
+    <clients>
+        <client>
+            <nombre>Nacho Simpson</nombre>
+            <compras>
+                <!-- MODIFICADO:
+                He modificado producto a pr_compra para que no hayan
+                conflictos con productos.producto -->
+                <pr_compra ref="L003">
+                    <cantidad>1</cantidad>
+                    <!-- Ahora en vez de tener un precio, puede tener la etiqueta 
+                    gratis, no debe tener ningun valor -->
+                    <gratis />
+                </pr_compra>
+            </compras>
+        </client>
+        <client>
+            <nombre>Manuel Garcia</nombre>
+            <compras>
+                <pr_compra ref="L002">
+                    <cantidad>2</cantidad>
+                    <precio>4,90€</precio>
+                </pr_compra>
+                <pr_compra ref="P002">
+                    <cantidad>2</cantidad>
+                    <precio>12€</precio>
+                </pr_compra>
+            </compras>
+        </client>
+        <client>
+            <nombre>Lionel Messi</nombre>
+            <compras>
+                <pr_compra ref="P001">
+                    <cantidad>3</cantidad>
+                    <precio>14€</precio>
+                </pr_compra>
+            </compras>
+        </client>
+    </clients>
+    <productos>
+        <seccion tipo="Lubricante">
+            <producto id="L001">
+                <tipo>Base de acuosa</tipo>
+                <precio>9,90€</precio>
+            </producto>
+            <producto id="L002">
+                <tipo>Base de silicona</tipo>
+                <precio>4,90€</precio>
+            </producto>
+            <producto id="L003">
+                <tipo>Base de oleo</tipo>
+                <precio>8,90€</precio>
+            </producto>
+        </seccion>
+        <seccion tipo="Preservativos">
+            <producto id="P001">
+                <marca>Durex</marca>
+                <!-- He movido tipo antes de precio, antes estaba al contrario
+                Esto es para encajar en producto(marca?,precio,tipo) ya que tiene en cuenta
+                el orden de los atributos-->
+                <tipo>Extrafino</tipo>
+                <precio>14€</precio>
+            </producto>
+            <producto id="P002">
+                <marca>Durex</marca>
+                <tipo>Fino</tipo>
+                <precio>12€</precio>
+            </producto>
+            <producto id="P003">
+                <marca>Durex</marca>
+                <tipo>Normal</tipo>
+                <precio>10€</precio>
+            </producto>
+        </seccion>
+    </productos>
+</sexynyigs>

@@ -1,0 +1,98 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified"
+  xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="gameria">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="clients">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="client" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element type="xs:string" name="name" />
+                    <xs:element name="email">
+                      <xs:annotation>
+                        <xs:documentation> Los dominios por si acaso se definen en atributos </xs:documentation>
+                      </xs:annotation>
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute type="xs:string" name="domain" use="optional" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:string" name="address" />
+                    <xs:element name="history">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="product-name" maxOccurs="unbounded" minOccurs="0">
+                            <xs:annotation>
+                              <xs:documentation> historial de productos identificados por su nombre </xs:documentation>
+                            </xs:annotation>
+                            <xs:complexType>
+                              <xs:simpleContent>
+                                <xs:extension base="xs:string">
+                                  <xs:attribute type="xs:string" name="lang" use="optional" />
+                                </xs:extension>
+                              </xs:simpleContent>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="purchase-type" use="optional" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="products">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="cards" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="title">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute type="xs:string" name="lang" use="optional" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:string" name="expansion" />
+                    <xs:element type="xs:short" name="year" />
+                    <xs:element type="xs:string" name="price" />
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="category" use="optional" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="game">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="title">
+                      <xs:complexType>
+                        <xs:simpleContent>
+                          <xs:extension base="xs:string">
+                            <xs:attribute type="xs:string" name="lang" />
+                          </xs:extension>
+                        </xs:simpleContent>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element type="xs:string" name="expansion" />
+                    <xs:element type="xs:short" name="year" />
+                    <xs:element type="xs:string" name="price" />
+                  </xs:sequence>
+                  <xs:attribute type="xs:string" name="category" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

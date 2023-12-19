@@ -1,0 +1,20 @@
+<!-- Esquema estricto para sexynyigs.xml -->
+<!ELEMENT sexynyigs (clients, productos)>
+
+<!ELEMENT clients (client*)>
+<!ELEMENT client (nombre, compras?)>
+<!ELEMENT nombre (#PCDATA)>
+<!ELEMENT compras (pr_compra*)>  <!-- producto comprado -->
+<!ELEMENT pr_compra (cantidad, (precio | gratis))>
+<!ATTLIST pr_compra ref IDREF #REQUIRED >
+<!ELEMENT cantidad (#PCDATA)>
+<!ELEMENT precio (#PCDATA)>
+<!ELEMENT gratis EMPTY>
+
+<!ELEMENT productos (seccion+)>
+<!ELEMENT seccion (producto+)>
+<!ATTLIST seccion tipo CDATA #REQUIRED >
+<!ELEMENT producto (marca?, tipo, precio)>
+<!ELEMENT marca (#PCDATA)>
+<!ATTLIST producto id ID #REQUIRED >
+<!ELEMENT tipo (#PCDATA)>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameria>
+  <clients><!-- attrib purchase-type="online/inPerson" -->
+    <client purchase-type="online">
+      <name>Pedro Garcia G</name><!-- Los dominios por si acaso se definen en atributos -->
+      <email domain="gmail">pedrogg@gmail.com</email>
+      <address>calle falsa 123</address>
+      <history><!-- historial de productos identificados por su nombre --><!-- attrib hrf="product_id"-->
+        <product-name href="cy_01">
+          <quantity>3</quantity>
+        </product-name>
+      </history>
+    </client>
+    <client purchase-type="inPerson">
+      <name>Pau Lopez Gimenez</name>
+      <email domain="outlook">lp@outlook.com</email>
+      <address>Microsoft 33</address>
+      <history>
+        <product-name href="bg_01">
+          <quantity>3</quantity>
+        </product-name>
+        <product-name href="cp_02">
+          <quantity>2</quantity>
+        </product-name>
+      </history>
+    </client>
+    <client purchase-type="inPerson">
+      <name>Alfonso Garcia Vaquero</name>
+      <email domain="yahoo">fonsito@yahoo.es</email>
+      <address>Paseo de mi casa 9</address>
+      <history>
+        <product-name href="">
+          <quantity></quantity>
+        </product-name>
+      </history>
+    </client>
+    <client purchase-type="online">
+      <name>Jorge Federico Gomez</name>
+      <email domain="iticbcn">jorgito@iticbcn.cat</email>
+      <address>Calle de la salud 11231</address>
+      <history>
+        <product-name href="">
+          <quantity></quantity>
+        </product-name>
+      </history>
+    </client>
+    <client purchase-type="online">
+      <name>Fernando Picapiedra</name>
+      <email domain="gmail">fplomillor@gmail.com</email>
+      <address>Roc boronat 41</address>
+      <history>
+        <product-name href="">
+          <quantity></quantity>
+        </product-name>
+        <product-name href="">
+          <quantity></quantity>
+        </product-name>
+      </history>
+    </client>
+  </clients>
+  <products>
+    <cards category="magic" id="cm_1">
+      <title lang="en">Tishana's Tidebinder</title>
+      <expansion>The Lost Caverns of Ixalan</expansion>
+      <year>2023</year>
+      <price>12,83€</price>
+      <stock>30</stock>
+    </cards>
+    <cards category="pokemon" id="cp_01">
+      <title lang="en">Ninetales</title>
+      <expansion>BS12</expansion>
+      <year>1999</year>
+      <price>83,62€</price>
+      <stock>30</stock>
+    </cards>
+    <cards category="pokemon" id="cp_02">
+      <title lang="en">Gengar VMAX</title>
+      <expansion>FST271</expansion>
+      <year>2021</year>
+      <price>174,21€</price>
+      <stock>30</stock>
+    </cards><!-- attrib id="product_id" -->
+    <cards category="YuGiOh" id="cy_01">
+      <title lang="en">Blue eyes white dragon</title>
+      <expansion>CT13</expansion>
+      <year>1996</year>
+      <price>15.78€</price>
+      <stock>30</stock>
+    </cards><!-- attrib id="product_id" -->
+    <game category="boardGame" id="bg_01">
+      <title lang="en">Catan</title>
+      <expansion>Barbarians and Merchants</expansion>
+      <year>2018</year>
+      <price>59,99€</price>
+      <stock>30</stock>
+    </game>
+  </products>
+</gameria>
