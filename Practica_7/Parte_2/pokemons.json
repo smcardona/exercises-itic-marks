@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "nom": "Bulbasaur",
+    "tipus": [
+      "planta",
+      "veneno"
+    ],
+    "pes": 6.9,
+    "altura": 0.7,
+    "estadistiques": {
+      "velocidad": 3,
+      "fortaleza": 3,
+      "precision": 4,
+      "resistencia": 4
+    },
+    "moviments": [
+      {
+        "nom": "Placaje",
+        "descripcio": "Embiste violentamente en la dirección seleccionada e inflige daño a los Pokémon rivales en su trayectoria, además de lanzarlos por los aires. Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia. Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución",
+        "potencia": 40,
+        "contacte": true
+      }
+    ],
+    "imagen": "https://www.wikidex.net/wiki/Archivo:Bulbasaur.png",
+    "evolucions": [
+      {
+        "id_evolucion": 2,
+        "nivel": 16
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "nom": "Ivysaur",
+    "tipus": [
+      "planta",
+      "veneno"
+    ],
+    "pes": 13.0,
+    "altura": 1,
+    "estadistiques": {
+      "velocidad": 2,
+      "fortaleza": 3,
+      "precision": 5,
+      "resistencia": 5
+    },
+    "moviments": [
+      {
+        "nom": "Placaje",
+        "descripcio": "Embiste violentamente en la dirección seleccionada e inflige daño a los Pokémon rivales en su trayectoria, además de lanzarlos por los aires. Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia. Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución",
+        "potencia": 40,
+        "contacte": true
+      },
+      {
+        "nom": "Látigo cepa",
+        "descripcio": " Golpea hacia delante con lianas como látigos que infligen daño a los rivales en el área de efecto y reducen temporalmente su velocidad de desplazamiento. Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia. Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución",
+        "potencia": 45,
+        "contacte": true
+      }
+    ],
+    "imagen": "https://www.wikidex.net/wiki/Archivo:Ivysaur.png",
+    "evolucions": [
+      {
+        "id_evolucion": 3,
+        "nivel": 32
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "nom": "Venusaur",
+    "tipus": [
+      "planta",
+      "veneno"
+    ],
+    "pes": 100,
+    "altura": 2,
+    "estadistiques": {
+      "velocidad": 2,
+      "fortaleza": 5,
+      "precision": 3,
+      "resistencia": 5
+    },
+    "moviments": [
+      {
+        "nom": "Terratemblor",
+        "descripcio": "Golpea enérgicamente el suelo e inflige daño a los rivales en el área de efecto. Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia. Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución",
+        "potencia": 60,
+        "contacte": false
+      },
+      {
+        "nom": "Derribo",
+        "descripcio": "Carga hacia delante con gran ímpetu dañando a todos los enemigos a los que alcanza. El usuario también se daña a sí mismo. Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia. Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución",
+        "potencia": 90,
+        "contacte": true
+      },
+      {
+        "nom": "Hola mágica",
+        "descripcio": "Esparce tres hojas peculiares cada segundo durante cierto tiempo. Estas persiguen a los Pokémon rivales en el área de efecto y les infligen daño, incluso si están escondidos en la hierba alta. Si un mismo rival recibe daño seis veces a causa de las hojas, queda incapacitado. El área de efecto del movimiento es mayor si este se usa cuando se está adherido a un aliado. Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia. Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución",
+        "potencia": 60,
+        "contacte": false
+      },
+      {
+        "nom": "Bomba de lodo",
+        "descripcio": "Lanza una bola de lodo a la ubicación seleccionada y crea un área de efecto al impactar que envenena a los rivales, además de reducir temporalmente su velocidad de desplazamiento y su Defensa Especial. Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia. Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución",
+        "potencia": 90,
+        "contacte": false
+      }
+    ],
+    "imagen": "https://www.wikidex.net/wiki/Archivo:Venusaur.png",
+    "evolucions": []
+  }
+]
