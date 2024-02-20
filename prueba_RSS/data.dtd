@@ -1,0 +1,16 @@
+<!ELEMENT feed (category, updated, icon, id, link*, logo, subtitle, title, entry*)>
+<!ELEMENT category EMPTY>
+<!ATTLIST category term CDATA #REQUIRED>
+<!ATTLIST category label CDATA "">
+<!ELEMENT updated (#PCDATA)>
+<!ELEMENT icon (#PCDATA)>
+<!ELEMENT id (#PCDATA)>
+<!ELEMENT link EMPTY>
+<!ATTLIST link rel CDATA "">
+<!ATTLIST link href CDATA "">
+<!ATTLIST link type CDATA "">
+<!ELEMENT logo (#PCDATA)>
+<!ELEMENT subtitle (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT title (#PCDATA)>
+<!ELEMENT entry (author, category, content, id, link, updated)>

@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE feed SYSTEM './data.dtd'>
+<feed
+	xmlns="http://www.w3.org/2005/Atom"
+	xmlns:media="http://search.yahoo.com/mrss/">
+	<category term="halo" label="r/halo"/>
+	<updated>2024-01-31T11:05:25+00:00</updated>
+	<icon>https://www.redditstatic.com/icon.png/</icon>
+	<id>/r/halo/.rss</id>
+	<link rel="self" href="https://www.reddit.com/r/halo/.rss" type="application/atom+xml" />
+	<link rel="alternate" href="https://www.reddit.com/r/halo/" type="text/html" />
+	<logo>https://b.thumbs.redditmedia.com/3pnlQLnfTW4qywb01Wm_L8M77d68bee9hv4mSENH8vo.png</logo>
+	<subtitle>Reddit's home for all things Halo, the franchise developed by 343 Industries and previously developed by Bungie.</subtitle>
+	<title>Reddit Halo</title>
+	<entry>
+		<author>
+			<name>/u/DeathByReach</name>
+			<uri>https://www.reddit.com/user/DeathByReach</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/DeathByReach&quot;&gt; /u/DeathByReach &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://support.halowaypoint.com/hc/en-us/articles/23085388505492-Halo-Infinite-Content-Update-29-Patch-Notes&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aevqav/halo_infinite_content_update_29_patch_notes/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_1aevqav</id>
+		<link href="https://www.reddit.com/r/halo/comments/1aevqav/halo_infinite_content_update_29_patch_notes/" />
+		<updated>2024-01-30T18:39:40+00:00</updated>
+		<published>2024-01-30T18:39:40+00:00</published>
+		<title>Halo Infinite Content Update 29 - Patch Notes</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/-343-Guilty-Spark-</name>
+			<uri>https://www.reddit.com/user/-343-Guilty-Spark-</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;&lt;a href=&quot;https://www.halowaypoint.com/news/cu29-launch&quot;&gt;https://www.halowaypoint.com/news/cu29-launch&lt;/a&gt;&lt;/p&gt; &lt;hr/&gt; &lt;p&gt;&lt;a href=&quot;https://wpassets.halowaypoint.com/wp-content/2024/01/Operation_SpiritOfFire.jpg&quot;&gt;Header Image&lt;/a&gt; &lt;sup&gt;&lt;sup&gt;&lt;a href=&quot;https://i.imgur.com/8ej2TXy.jpg&quot;&gt;[Imgur]&lt;/a&gt;&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt; &lt;p&gt;&lt;em&gt;Halo Infinite’s&lt;/em&gt; latest update, Content Update 29 (“CU29”), has arrived alongside the launch of the newest Operation: Spirit of Fire!&lt;/p&gt; &lt;p&gt;The latest free update for &lt;em&gt;Halo Infinite&lt;/em&gt; brings the legendary Mjolnir Mark IV armor core, multi-core shoulder customization alongside a slew of HCS and Silver Team-themed goodness for your Spartan, a new map, three new Operations, and much more—let’s dive into to check it all out…&lt;/p&gt; &lt;hr/&gt; &lt;h2&gt;&lt;strong&gt;CONTENTS&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt;OVERVIEW&lt;/li&gt; &lt;li&gt;OPERATION: SPIRIT OF FIRE&lt;/li&gt; &lt;li&gt;ILLUSION&lt;/li&gt; &lt;li&gt;MULTI-USE CUSTOMIZATION&lt;/li&gt; &lt;li&gt;FORGE UPDATES&lt;/li&gt; &lt;li&gt;SILVER TEAM, SILVER SCREEN&lt;/li&gt; &lt;li&gt;HCS&lt;/li&gt; &lt;li&gt;SHOP&lt;/li&gt; &lt;li&gt;HALO SUPPORT&lt;/li&gt; &lt;li&gt;PRESS KIT&lt;/li&gt; &lt;/ul&gt; &lt;hr/&gt; &lt;h2&gt;&lt;strong&gt;OVERVIEW&lt;/strong&gt;&lt;/h2&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt;&lt;a href=&quot;https://www.halowaypoint.com/news/community-livestream-cu29&quot;&gt;UPDATE OVERVIEW&lt;/a&gt;&lt;/strong&gt; – Catch up on our January 19 Community Livestream which outlines the content in this update and our approach to &lt;em&gt;Halo Infinite&lt;/em&gt; going forwards this year.&lt;/li&gt; &lt;li&gt; &lt;strong&gt;&lt;a href=&quot;https://www.halowaypoint.com/news/map-overview-halo-infinite-cu29&quot;&gt;MAP OVERVIEW&lt;/a&gt;&lt;/strong&gt; – Take a guided tour of Illusion, the new Arena map.&lt;/li&gt; &lt;li&gt; &lt;strong&gt;&lt;a href=&quot;https://www.halowaypoint.com/news/forge-overview-cu29&quot;&gt;FORGE OVERVIEW&lt;/a&gt;&lt;/strong&gt; – Learn more about the new features and improvements coming to Forge, including the Covenant palette, Mode Creator, and more.&lt;/li&gt; &lt;li&gt; &lt;strong&gt;&lt;a href=&quot;https://www.halowaypoint.com/news/customization-overview-cu29&quot;&gt;CUSTOMIZATION OVERVIEW&lt;/a&gt;&lt;/strong&gt; – Get a closer look at the Mark IV Armor Core, customization improvements, and upcoming Operations.&lt;/li&gt; &lt;/ul&gt; &lt;hr/&gt; &lt;h2&gt;&lt;strong&gt;OPERATION: SPIRIT OF FIRE&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;As part of today’s update, all players will receive the classic Mark IV Armor Core for free. Simply jump into the game and you’ll find it waiting for you in the Armor Hall.&lt;/p&gt; &lt;p&gt;This fan-favorite armor has appeared in the likes of &lt;em&gt;Halo Wars&lt;/em&gt; and &lt;em&gt;Halo Wars 2&lt;/em&gt;, &lt;em&gt;Halo Legends&lt;/em&gt;, &lt;em&gt;Halo 5&lt;/em&gt; : &lt;em&gt;Guardians&lt;/em&gt;, and now this legendary iteration of Mjolnir has come to &lt;em&gt;Halo Infinite&lt;/em&gt;.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://wpassets.halowaypoint.com/wp-content/2024/01/MjolnirMarkIV.jpg&quot;&gt;Halo Infinite image of three Spartans clad in Mark IV armor&lt;/a&gt; &lt;sup&gt;&lt;sup&gt;&lt;a href=&quot;https://i.imgur.com/JGAaPsc.jpg&quot;&gt;[Imgur]&lt;/a&gt;&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt; &lt;p&gt;And what better way to kick off the update than with the opportunity to further outfit the Mark IV Armor Core?&lt;/p&gt; &lt;p&gt;Enter Operation: Spirit of Fire, which runs from January 30 to March 5 and features 20 tiers of free customization rewards, including new armor attachments, coatings, weapon charms, emblems, and more.&lt;/p&gt; &lt;p&gt;You know the drill with Operations now: in addition to the free pass, there are two additional premium options you can purchase.&lt;/p&gt; &lt;ul&gt; &lt;li&gt;500 credits will make the Operation Pass durable (it will not expire), offers bonus XP during the Operation’s live window, an extra Challenge slot while your pass is equipped, and comes with an exclusive customization item.&lt;/li&gt; &lt;li&gt;2,000 credits instantly unlocks all 20 tiers of the Operation Pass at purchase and includes the exclusive bonus customization item.&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;The bonus customization item for this Operation is the Evolved MA5—a weapon model for your Assault Rifle that will transform the sleek and modern MA40 into the classically chunky design reminiscent of the MA5B seen in &lt;em&gt;Halo: CE&lt;/em&gt; and &lt;em&gt;Halo Wars&lt;/em&gt;.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://wpassets.halowaypoint.com/wp-content/2024/01/EvolvedMA5_SpiritOfFire.jpg&quot;&gt;Halo Infinite screenshot of a Spartan in Mark IV armor holding an Assault Rifle with the Evolved MA5 weapon model&lt;/a&gt; &lt;sup&gt;&lt;sup&gt;&lt;a href=&quot;https://i.imgur.com/l58VFti.jpg&quot;&gt;[Imgur]&lt;/a&gt;&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt; &lt;p&gt;When the Spirit of Fire Operation concludes on March 5, there are still two more free Operations that will take us through April 30!&lt;/p&gt; &lt;p&gt;&lt;strong&gt;CYBER SHOWDOWN III&lt;/strong&gt; &lt;em&gt;MARCH 5-APRIL 2&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Themed around the concept of a “viral machine,” the latest exploration of these Created champions veers more into the realm of cybernetic horror that reflects the twisted nature of their creation. Jump into &lt;em&gt;Halo Infinite&lt;/em&gt; on March 5 to unlock 20 tiers of new customization rewards for your CHIMERA Armor Core. &lt;/p&gt; &lt;p&gt;&lt;strong&gt;THE YAPPENING II&lt;/strong&gt; &lt;em&gt;APRIL 2-APRIL 30&lt;/em&gt;&lt;/p&gt; &lt;p&gt;The Yappening II arrives in April to help you celebrate the season of fools with 20 tiers of Grunty goodness. &lt;/p&gt; &lt;hr/&gt; &lt;h2&gt;&lt;strong&gt;ILLUSION&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Today’s update also brings a brand-new map to &lt;em&gt;Halo Infinite&lt;/em&gt;, titled Illusion.&lt;/p&gt; &lt;p&gt;Illusion takes place within an abandoned ONI black site where old experiments with recovered (and familiar) Covenant technology remain.&lt;/p&gt; &lt;p&gt;Described as a love letter to the map design of &lt;em&gt;Halo: Combat Evolved&lt;/em&gt;, Illusion features a unique mid-section where a corridor possesses the traits of active camouflage—so players who go into the center will turn invisible.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://www.halowaypoint.com/news/map-overview-halo-infinite-cu29&quot;&gt;Check out our full breakdown of Illusion in our Map Overview blog.&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &lt;hr/&gt; &lt;h2&gt;&lt;strong&gt;MULTI-USE SHOULDER CUSTOMIZATION&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Our multi-use journey for &lt;em&gt;Halo Infinite&lt;/em&gt;&amp;#39;s customization continues with the addition of shoulder pads that can be equipped across any Armor Core.&lt;/p&gt; &lt;p&gt;Like before, this multi-use expansion of armor works retroactively, so all of your current shoulder pads are multi-core enabled and all shoulders going forward will be multi-core as well.&lt;/p&gt; &lt;p&gt;Following on from work that has been accomplished over previous updates to make helmets, visors, and many coatings multi-core, there are now billions of possible combinations available in &lt;em&gt;Halo Infinite&lt;/em&gt;. We can’t wait to see the latest and greatest Spartan drip out on the battlefield!&lt;/p&gt; &lt;p&gt;Multi-Use Shoulder Customization&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://wpassets.halowaypoint.com/wp-content/2024/01/MultiUseShoulders_3.jpg&quot;&gt;Halo Infinite screenshot of a Spartan with multi-use shoulder pads&lt;/a&gt; &lt;sup&gt;&lt;sup&gt;&lt;a href=&quot;https://i.imgur.com/2EbAJAy.jpg&quot;&gt;[Imgur]&lt;/a&gt;&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt; &lt;hr/&gt; &lt;h2&gt;&lt;strong&gt;FORGE UPDATES&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Forge continues to evolve as we target highly requested additions, enhancements, and quality-of-life improvements. Here are some of the highlights of the new toys you’re able to play with in &lt;em&gt;Halo Infinite&lt;/em&gt;&amp;#39;s Forge:&lt;/p&gt; &lt;p&gt;&lt;strong&gt;COVENANT OBJECT PALETTE&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://wpassets.halowaypoint.com/wp-content/2024/01/ForgeCU29Header.jpg&quot;&gt;Halo Infinite screenshot of the Covenant object palette coming in CU29&lt;/a&gt; &lt;sup&gt;&lt;sup&gt;&lt;a href=&quot;https://i.imgur.com/cBHJ55G.jpg&quot;&gt;[Imgur]&lt;/a&gt;&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt; &lt;p&gt;Need more purple? Over 70 new Covenant-themed structure pieces, primitives, accents, and decals are now available for Forgers to create exciting experiences that harken back to &lt;em&gt;Halo&lt;/em&gt;&amp;#39;s roots.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;FORGE MODE CREATOR&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://wpassets.halowaypoint.com/wp-content/2024/01/Create-Mode-Prefab-Action-Menu.png&quot;&gt;Halo Infinite screenshot of the Action Menu showing the option to Create Mode Prefab&lt;/a&gt; &lt;sup&gt;&lt;sup&gt;&lt;a href=&quot;https://i.imgur.com/BBki3cR.png&quot;&gt;[Imgur]&lt;/a&gt;&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt; &lt;p&gt;This new functionality allows players to script modes in the Node Graph like a prefab, then save, share, and play those experiences—just like you would share a mode created in the Custom Game menu.&lt;/p&gt; &lt;p&gt;The Forge Mode Creator will make it easier for modes to be shared and played, hooked up to community maps, and free up map budget (as mode logic will no longer come with a map budget cost).&lt;/p&gt; &lt;p&gt;To learn more about the ins and outs of the Forge Mode Creator (along with a more thorough breakdown of other additions and improvements), &lt;strong&gt;&lt;a href=&quot;https://www.halowaypoint.com/news/forge-overview-cu29&quot;&gt;check out our Forge Overview blog!&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;MATERIAL SWAP&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Players can now adjust up to three colors on select foliage objects and add further set dressing and detail to their maps with decals that mimic stains, foliage overgrowth, and more.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://wpassets.halowaypoint.com/wp-content/2024/01/CU29_Forge_Art_3_Waypoint_Clean.jpg&quot;&gt;First person perspective of a player looking at various foliage Forge objects with different colors and materials.&lt;/a&gt; &lt;sup&gt;&lt;sup&gt;&lt;a href=&quot;https://i.imgur.com/JQ8ALMq.jpg&quot;&gt;[Imgur]&lt;/a&gt;&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;FORGE AI TOOLKIT IMPROVEMENTS&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;New behaviors and traits have been added to the Forge AI Toolkit, including:&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt;New Squad Behavior – Wander When Idle&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;Available on the AI Spawner object. When set to ON, AI units in this spawned squad will wander around their assigned AI Move Zone when idle.&lt;/p&gt; &lt;ul&gt; &lt;li&gt; &lt;strong&gt;New AI Trait Nodes&lt;/strong&gt;&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;New AI Traits include:&lt;/p&gt; &lt;ul&gt; &lt;li&gt;Bonus Health&lt;/li&gt; &lt;li&gt;Bottomless Clip&lt;/li&gt; &lt;li&gt;Damage Resistance&lt;/li&gt; &lt;li&gt;Health Recharge&lt;/li&gt; &lt;li&gt;Movement Speed&lt;/li&gt; &lt;li&gt;Movement Speed With Turret&lt;/li&gt; &lt;li&gt;Prevent Weapon Firing&lt;/li&gt; &lt;li&gt;Vampirism&lt;/li&gt; &lt;li&gt;Weapon Damage&lt;/li&gt; &lt;/ul&gt; &lt;p&gt;More is on the way to &lt;em&gt;Halo Infinite&lt;/em&gt;&amp;#39;s Forge this year, including Flood and alien-themed palettes.&lt;/p&gt; &lt;hr/&gt; &lt;h2&gt;&lt;strong&gt;SILVER TEAM, SILVER SCREEN&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Season Two of the &lt;em&gt;Halo&lt;/em&gt; television series debuts on Paramount+ with a two-episode premiere on February 8, and we’ve got some unmissable Ultimate Rewards for you to earn!&lt;/p&gt; &lt;p&gt;Complete all your challenges on these respective weeks to earn each of these Silver Team helmets, available across all your Armor Cores. &lt;/p&gt; &lt;p&gt;&lt;strong&gt;WEEK ONE:&lt;/strong&gt; KAI-125 &lt;em&gt;JANUARY 30-FEBRUARY 6&lt;/em&gt;&lt;/p&gt; &lt;p&gt;&lt;strong&gt;WEEK TWO:&lt;/strong&gt; RIZ-028 &lt;em&gt;FEBRUARY 6-13&lt;/em&gt; &lt;/p&gt; &lt;p&gt;&lt;strong&gt;WEEK FOUR:&lt;/strong&gt; VANNAK-134 &lt;em&gt;FEBRUARY 20-27&lt;/em&gt;&lt;/p&gt; &lt;p&gt;Silver Team Helmets&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://wpassets.halowaypoint.com/wp-content/2024/01/SilverTeam_Kai.jpg&quot;&gt;Halo Infinite screenshot of a Spartan with multi-use shoulder pads and the helmet of Kai-125&lt;/a&gt; &lt;sup&gt;&lt;sup&gt;&lt;a href=&quot;https://i.imgur.com/pnRN52i.jpg&quot;&gt;[Imgur]&lt;/a&gt;&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt; &lt;p&gt;Visors for each member of Silver Team will also be given as free rewards! Simply log into Halo Infinite on these corresponding weeks and they will be unlocked for you.&lt;/p&gt; &lt;hr/&gt; &lt;h2&gt;&lt;strong&gt;HCS&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;strong&gt;YEAR ONE LAUNCH BUNDLES RETURN&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;After much demand from the community, we are bringing back the first bundles for each HCS team that &lt;em&gt;Halo Infinite&lt;/em&gt; launched with back in 2021—with some major improvements!&lt;/p&gt; &lt;p&gt;The armor and weapon kits have been unlocked, which means you can now customize with these coatings for the first time ever. Additionally, they are all now multi-use which means you can wear the armor, visors, or weapon coatings on any armor, helmet, or UNSC weapon.&lt;/p&gt; &lt;p&gt;If you already purchased these launch bundles when &lt;em&gt;Halo Infinite&lt;/em&gt; released, the content will be applied retroactively. If you missed these bundles the first time around, they’re now available again for teams that are still in the Halo Championship Series: FaZe Clan, OpTic Gaming, Sentinels, Spacestation Gaming, and Cloud9.&lt;/p&gt; &lt;p&gt;&lt;strong&gt;YEAR THREE LAUNCH BUNDLES&lt;/strong&gt;&lt;/p&gt; &lt;p&gt;Year 3 HCS bundles have also arrived with all-new designs, featuring new multi-use armor coatings as well as visors. These have been created by the teams themselves, featuring their unique branding.&lt;/p&gt; &lt;p&gt;Additionally, acquire the Dracon Bandit weapon model for the M392 Bandit and Bandit EVO by grabbing the bundle that supports your favorite HCS team—the majority of the profits go to the partnered teams to maintain their involvement in the Halo ecosystem.&lt;/p&gt; &lt;hr/&gt; &lt;h2&gt;&lt;strong&gt;SHOP&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Head to the Shop and you will find some exciting new &lt;em&gt;Halo Wars&lt;/em&gt; -inspired bundles, featuring the likes of Omega Team to further outfit your free Mark IV armor...&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://wpassets.halowaypoint.com/wp-content/2024/01/CU29_Shop_OmegaTeamBundle.jpg&quot;&gt;Halo Infinite image of the Omega Team bundle&lt;/a&gt; &lt;sup&gt;&lt;sup&gt;&lt;a href=&quot;https://i.imgur.com/c3wogTx.jpg&quot;&gt;[Imgur]&lt;/a&gt;&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt; &lt;p&gt;... &lt;em&gt;and&lt;/em&gt; the Stanchion weapon model for your S7 Sniper.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://wpassets.halowaypoint.com/wp-content/2024/01/M99A2S3_Stanchion.jpg&quot;&gt;Halo Infinite image of a Spartan holding a sniper with the M99A2S3 Stanchion weapon model&lt;/a&gt; &lt;sup&gt;&lt;sup&gt;&lt;a href=&quot;https://i.imgur.com/J4s5hEX.jpg&quot;&gt;[Imgur]&lt;/a&gt;&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt; &lt;hr/&gt; &lt;h2&gt;&lt;strong&gt;SEE SOMETHING, SAY SOMETHING&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;Today’s update delivers many updates and fixes that the team have been working on to improve the &lt;em&gt;Halo Infinite&lt;/em&gt; experience. &lt;a href=&quot;https://aka.ms/HaloInfiniteUpdate&quot;&gt;&lt;strong&gt;Head over to the Halo Support site to check out the full list of patch notes.&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; &lt;p&gt;Run into a bug, glitch, or other unexpected issue? &lt;a href=&quot;https://support.halowaypoint.com/hc/en-us&quot;&gt;Submit a ticket and notify the team on the Halo Support site.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;You can submit tickets on a wide range of topics that include reports of Audio Issues, Crashes, Game Save Corruption, Report a Player, General Bug Reports, and more.&lt;/p&gt; &lt;hr/&gt; &lt;p&gt;Operation: Spirit of Fire is live and Content Update 29 is officially ready for download!&lt;/p&gt; &lt;p&gt;Explore Illusion and see what fun Easter eggs you can find, outfit your new Mark IV Armor Core and start working your way through that free 20-tier Operation Pass, take a look at what new shoulder pad combinations can perfect the look of your Spartan, check out the latest additions and improvements to Forge, and chip away at those weekly challenges to unlock the helmets of Silver Team over the next few weeks.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.xbox.com/en-US/games/store/halo-infinite-multiplayer/9PP5G1F0C2B6&quot;&gt;You can get &lt;em&gt;Halo Infinite&lt;/em&gt;&amp;#39;s free-to-play Multiplayer here.&lt;/a&gt; And, in case you haven’t yet experienced the Master Chief’s epic return to battle the Banished on Zeta Halo, &lt;a href=&quot;https://www.xbox.com/en-US/games/store/halo-infinite-campaign/9NP1P1WFS0LB/0010/B2HLQSV2RP7H&quot;&gt;be sure to get the &lt;em&gt;Halo Infinite&lt;/em&gt; Campaign here.&lt;/a&gt;&lt;/p&gt; &lt;hr/&gt; &lt;h2&gt;&lt;strong&gt;PRESS KIT&lt;/strong&gt;&lt;/h2&gt; &lt;p&gt;&lt;a href=&quot;http://aka.ms/CU29PressKit&quot;&gt;Download the CU29 press kit here.&lt;/a&gt;&lt;/p&gt; &lt;p&gt;CU29 Press Kit&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://wpassets.halowaypoint.com/wp-content/2024/01/HI_CU29_PK10_1920x1080_Watermark.jpg&quot;&gt;Image&lt;/a&gt; &lt;sup&gt;&lt;sup&gt;&lt;a href=&quot;https://i.imgur.com/zAhvFSN.jpg&quot;&gt;[Imgur]&lt;/a&gt;&lt;/sup&gt;&lt;/sup&gt;&lt;/p&gt; &lt;hr/&gt; &lt;p&gt;&lt;em&gt;This post was made by a script written and maintained by the &lt;a href=&quot;/r/Halo&quot;&gt;r/Halo&lt;/a&gt; mod team to automatically post blogs from Halo Waypoint. If you notice any issues with the text output or think this was posted by mistake, please &lt;a href=&quot;https://www.reddit.com/message/compose/?to=/r/halo&quot;&gt;message the mods.&lt;/a&gt;&lt;/em&gt;&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/-343-Guilty-Spark-&quot;&gt; /u/-343-Guilty-Spark- &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aewb04/spirit_of_fire_launch_halo_infinite_cu29/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aewb04/spirit_of_fire_launch_halo_infinite_cu29/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_1aewb04</id>
+		<link href="https://www.reddit.com/r/halo/comments/1aewb04/spirit_of_fire_launch_halo_infinite_cu29/" />
+		<updated>2024-01-30T19:02:13+00:00</updated>
+		<published>2024-01-30T19:02:13+00:00</published>
+		<title>Spirit of Fire Launch | Halo Infinite CU29</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/StarsCanScream</name>
+			<uri>https://www.reddit.com/user/StarsCanScream</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aev5bb/the_new_start_screen/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/ypknpz0jcmfc1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=04f15c64efa4668622a980b30b05cb680663a7f8&quot; alt=&quot;The new start screen&quot; title=&quot;The new start screen&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/StarsCanScream&quot;&gt; /u/StarsCanScream &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/ypknpz0jcmfc1.jpeg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aev5bb/the_new_start_screen/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aev5bb</id>
+		<media:thumbnail url="https://preview.redd.it/ypknpz0jcmfc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=04f15c64efa4668622a980b30b05cb680663a7f8" />
+		<link href="https://www.reddit.com/r/halo/comments/1aev5bb/the_new_start_screen/" />
+		<updated>2024-01-30T18:16:43+00:00</updated>
+		<published>2024-01-30T18:16:43+00:00</published>
+		<title>The new start screen</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Archmagos_Browning</name>
+			<uri>https://www.reddit.com/user/Archmagos_Browning</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aeysm9/these_item_descriptions_are_the_hardest_things/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/uaRSliIvAQAgMkgf3ASU5XvnBjfvFixGUy5HBzPq5IM.jpg&quot; alt=&quot;These item descriptions are the hardest things I’ve seen all week. (Latter twos’ text boxes edited for your viewing pleasure)&quot; title=&quot;These item descriptions are the hardest things I’ve seen all week. (Latter twos’ text boxes edited for your viewing pleasure)&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Archmagos_Browning&quot;&gt; /u/Archmagos_Browning &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/gallery/1aeysm9&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aeysm9/these_item_descriptions_are_the_hardest_things/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aeysm9</id>
+		<media:thumbnail url="https://b.thumbs.redditmedia.com/uaRSliIvAQAgMkgf3ASU5XvnBjfvFixGUy5HBzPq5IM.jpg" />
+		<link href="https://www.reddit.com/r/halo/comments/1aeysm9/these_item_descriptions_are_the_hardest_things/" />
+		<updated>2024-01-30T20:42:58+00:00</updated>
+		<published>2024-01-30T20:42:58+00:00</published>
+		<title>These item descriptions are the hardest things I’ve seen all week. (Latter twos’ text boxes edited for your viewing pleasure)</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Haijakk</name>
+			<uri>https://www.reddit.com/user/Haijakk</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Haijakk&quot;&gt; /u/Haijakk &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/gallery/1af2t3t&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1af2t3t/was_it_really_impossible_to_give_us_a_50_tier/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_1af2t3t</id>
+		<link href="https://www.reddit.com/r/halo/comments/1af2t3t/was_it_really_impossible_to_give_us_a_50_tier/" />
+		<updated>2024-01-30T23:27:05+00:00</updated>
+		<published>2024-01-30T23:27:05+00:00</published>
+		<title>Was it really impossible to give us a 50 tier Battle Pass?</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Boomers_the_Name</name>
+			<uri>https://www.reddit.com/user/Boomers_the_Name</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aevrsj/halo_infinite_shop_spirit_of_fire_13024/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/RI7jcAq_hVfnmDM-TY5FHF8mfaTHL73HL9pI2c-LNZo.jpg&quot; alt=&quot;Halo Infinite Shop - Spirit of Fire - 1/30/24&quot; title=&quot;Halo Infinite Shop - Spirit of Fire - 1/30/24&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Boomers_the_Name&quot;&gt; /u/Boomers_the_Name &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/gallery/1aevrsj&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aevrsj/halo_infinite_shop_spirit_of_fire_13024/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aevrsj</id>
+		<media:thumbnail url="https://b.thumbs.redditmedia.com/RI7jcAq_hVfnmDM-TY5FHF8mfaTHL73HL9pI2c-LNZo.jpg" />
+		<link href="https://www.reddit.com/r/halo/comments/1aevrsj/halo_infinite_shop_spirit_of_fire_13024/" />
+		<updated>2024-01-30T18:41:14+00:00</updated>
+		<published>2024-01-30T18:41:14+00:00</published>
+		<title>Halo Infinite Shop - Spirit of Fire - 1/30/24</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Serious_Course_3244</name>
+			<uri>https://www.reddit.com/user/Serious_Course_3244</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aewpdc/they_finally_brought_back_the_warrior_helmet_from/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/chp0jp8rnmfc1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=c398b1d42fd8df39e2f7ee015f41cbaf70e86323&quot; alt=&quot;They finally brought back the Warrior helmet from Halo 4/5 and it looks amazing&quot; title=&quot;They finally brought back the Warrior helmet from Halo 4/5 and it looks amazing&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Great to see it back and better than ever&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Serious_Course_3244&quot;&gt; /u/Serious_Course_3244 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/chp0jp8rnmfc1.jpeg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aewpdc/they_finally_brought_back_the_warrior_helmet_from/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aewpdc</id>
+		<media:thumbnail url="https://preview.redd.it/chp0jp8rnmfc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=c398b1d42fd8df39e2f7ee015f41cbaf70e86323" />
+		<link href="https://www.reddit.com/r/halo/comments/1aewpdc/they_finally_brought_back_the_warrior_helmet_from/" />
+		<updated>2024-01-30T19:18:13+00:00</updated>
+		<published>2024-01-30T19:18:13+00:00</published>
+		<title>They finally brought back the Warrior helmet from Halo 4/5 and it looks amazing</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Old-Construction1481</name>
+			<uri>https://www.reddit.com/user/Old-Construction1481</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aepp76/what_is_this_for/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/oahcz0n88lfc1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=cbef00d12b6e0d69284ac50bedc3b181782e2258&quot; alt=&quot;What is this for?&quot; title=&quot;What is this for?&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Old-Construction1481&quot;&gt; /u/Old-Construction1481 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/oahcz0n88lfc1.jpeg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aepp76/what_is_this_for/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aepp76</id>
+		<media:thumbnail url="https://preview.redd.it/oahcz0n88lfc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=cbef00d12b6e0d69284ac50bedc3b181782e2258" />
+		<link href="https://www.reddit.com/r/halo/comments/1aepp76/what_is_this_for/" />
+		<updated>2024-01-30T14:29:59+00:00</updated>
+		<published>2024-01-30T14:29:59+00:00</published>
+		<title>What is this for?</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/DeathBuffalo</name>
+			<uri>https://www.reddit.com/user/DeathBuffalo</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aevscu/just_how_god_intended/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/u87q9xg9hmfc1.jpeg?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ec69ba1e8b257982d400d435fea05ff042d7afee&quot; alt=&quot;Just how god intended&quot; title=&quot;Just how god intended&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/DeathBuffalo&quot;&gt; /u/DeathBuffalo &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/u87q9xg9hmfc1.jpeg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aevscu/just_how_god_intended/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aevscu</id>
+		<media:thumbnail url="https://preview.redd.it/u87q9xg9hmfc1.jpeg?width=640&amp;crop=smart&amp;auto=webp&amp;s=ec69ba1e8b257982d400d435fea05ff042d7afee" />
+		<link href="https://www.reddit.com/r/halo/comments/1aevscu/just_how_god_intended/" />
+		<updated>2024-01-30T18:41:48+00:00</updated>
+		<published>2024-01-30T18:41:48+00:00</published>
+		<title>Just how god intended</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/ebagdrofk</name>
+			<uri>https://www.reddit.com/user/ebagdrofk</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Thought this was kinda funny. Sorry about the phone pic, uploading is a pain in the ass when your storage is full.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ebagdrofk&quot;&gt; /u/ebagdrofk &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/7lvfhx8a1nfc1.jpeg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aeykou/photo_of_james_cutter_and_atriox_on_the_new_map/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_1aeykou</id>
+		<link href="https://www.reddit.com/r/halo/comments/1aeykou/photo_of_james_cutter_and_atriox_on_the_new_map/" />
+		<updated>2024-01-30T20:34:03+00:00</updated>
+		<published>2024-01-30T20:34:03+00:00</published>
+		<title>Photo of James Cutter and Atriox on the new map Illusion</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Dilpickle6194</name>
+			<uri>https://www.reddit.com/user/Dilpickle6194</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Dilpickle6194&quot;&gt; /u/Dilpickle6194 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/hjy0adg4zlfc1.jpeg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aet8jf/this_is_it_just_one_more_hour_until_our_beloved/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_1aet8jf</id>
+		<link href="https://www.reddit.com/r/halo/comments/1aet8jf/this_is_it_just_one_more_hour_until_our_beloved/" />
+		<updated>2024-01-30T17:00:08+00:00</updated>
+		<published>2024-01-30T17:00:08+00:00</published>
+		<title>This is it. Just one more hour until our beloved protector moves to the great beyond.</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Lyricalthunder</name>
+			<uri>https://www.reddit.com/user/Lyricalthunder</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Lyricalthunder&quot;&gt; /u/Lyricalthunder &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/gallery/1aevdie&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aevdie/yappening_iis_entire_free_battlepass/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_1aevdie</id>
+		<link href="https://www.reddit.com/r/halo/comments/1aevdie/yappening_iis_entire_free_battlepass/" />
+		<updated>2024-01-30T18:25:42+00:00</updated>
+		<published>2024-01-30T18:25:42+00:00</published>
+		<title>Yappening II’s entire free Battlepass (04/02/2024-04/30/2024)</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/SPARTAN-258</name>
+			<uri>https://www.reddit.com/user/SPARTAN-258</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aex19m/closest_i_could_get_it_without_spending_a/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/v4hcug01qmfc1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9d973dbd7789e3f9e41159eaace8107ceb3b6fa7&quot; alt=&quot;Closest I could get it without spending a gazillion credits in the store&quot; title=&quot;Closest I could get it without spending a gazillion credits in the store&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/SPARTAN-258&quot;&gt; /u/SPARTAN-258 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/v4hcug01qmfc1.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aex19m/closest_i_could_get_it_without_spending_a/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aex19m</id>
+		<media:thumbnail url="https://preview.redd.it/v4hcug01qmfc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=9d973dbd7789e3f9e41159eaace8107ceb3b6fa7" />
+		<link href="https://www.reddit.com/r/halo/comments/1aex19m/closest_i_could_get_it_without_spending_a/" />
+		<updated>2024-01-30T19:31:10+00:00</updated>
+		<published>2024-01-30T19:31:10+00:00</published>
+		<title>Closest I could get it without spending a gazillion credits in the store</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Lyricalthunder</name>
+			<uri>https://www.reddit.com/user/Lyricalthunder</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aeumph/im_building_a_website_where_you_can_save_custom/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/xRjbVaQtAQWCeOQLFZfJzlp0yWzNAkrm6bya15TG0Vg.jpg&quot; alt=&quot;I’m building a website where you can save custom armor loadout presets and swap them on the fly. Is this something anybody would be interested in?&quot; title=&quot;I’m building a website where you can save custom armor loadout presets and swap them on the fly. Is this something anybody would be interested in?&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;You’ll be able to select which armor pieces you want and then save that as a custom armor kit loadout. Anytime you want to switch over to that saved armor you just click a button and it auto equips it in game for you. &lt;/p&gt; &lt;p&gt;It’s not fully complete, but the core feature works pretty well and will actually change your armor in game. &lt;/p&gt; &lt;p&gt;But there’s a lot of work to be done, I want to gauge interest in this to see if I should continue development. Thoughts?&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Lyricalthunder&quot;&gt; /u/Lyricalthunder &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/gallery/1aeumph&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aeumph/im_building_a_website_where_you_can_save_custom/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aeumph</id>
+		<media:thumbnail url="https://b.thumbs.redditmedia.com/xRjbVaQtAQWCeOQLFZfJzlp0yWzNAkrm6bya15TG0Vg.jpg" />
+		<link href="https://www.reddit.com/r/halo/comments/1aeumph/im_building_a_website_where_you_can_save_custom/" />
+		<updated>2024-01-30T17:55:55+00:00</updated>
+		<published>2024-01-30T17:55:55+00:00</published>
+		<title>I’m building a website where you can save custom armor loadout presets and swap them on the fly. Is this something anybody would be interested in?</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/PandoraTorukMakto</name>
+			<uri>https://www.reddit.com/user/PandoraTorukMakto</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Makes sense as to why theres no Season Pass. Why let people unlock things with Credits earned through Gameplay when we can charge ridiculous money for the cosmetics for the core everyone wants.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/PandoraTorukMakto&quot;&gt; /u/PandoraTorukMakto &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aezo57/so_343_just_decided_to_lock_95_of_mkiv_behind_the/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aezo57/so_343_just_decided_to_lock_95_of_mkiv_behind_the/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_1aezo57</id>
+		<link href="https://www.reddit.com/r/halo/comments/1aezo57/so_343_just_decided_to_lock_95_of_mkiv_behind_the/" />
+		<updated>2024-01-30T21:19:01+00:00</updated>
+		<published>2024-01-30T21:19:01+00:00</published>
+		<title>So 343 just decided to lock 95% of MKIV behind the store?</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Aion-Atlas</name>
+			<uri>https://www.reddit.com/user/Aion-Atlas</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aexvlo/something_about_the_mkiv_core_screams_to_me_what/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/XL1dQJlyuuElN2biYXrQi4p1swP6RITjVjXvuULIrJg.jpg&quot; alt=&quot;Something about the MKIV core screams to me &amp;quot;What Next Gen Halo should look like&amp;quot; It heavily evokes a classic vibe but is detailed and high fidelity. Art team absolutely killed it. I personally would love for halo to look this way going forwards.&quot; title=&quot;Something about the MKIV core screams to me &amp;quot;What Next Gen Halo should look like&amp;quot; It heavily evokes a classic vibe but is detailed and high fidelity. Art team absolutely killed it. I personally would love for halo to look this way going forwards.&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Aion-Atlas&quot;&gt; /u/Aion-Atlas &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/gallery/1aexvlo&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aexvlo/something_about_the_mkiv_core_screams_to_me_what/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aexvlo</id>
+		<media:thumbnail url="https://b.thumbs.redditmedia.com/XL1dQJlyuuElN2biYXrQi4p1swP6RITjVjXvuULIrJg.jpg" />
+		<link href="https://www.reddit.com/r/halo/comments/1aexvlo/something_about_the_mkiv_core_screams_to_me_what/" />
+		<updated>2024-01-30T20:05:47+00:00</updated>
+		<published>2024-01-30T20:05:47+00:00</published>
+		<title>Something about the MKIV core screams to me &quot;What Next Gen Halo should look like&quot; It heavily evokes a classic vibe but is detailed and high fidelity. Art team absolutely killed it. I personally would love for halo to look this way going forwards.</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/DeathBuffalo</name>
+			<uri>https://www.reddit.com/user/DeathBuffalo</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aevrjz/blue_team_at_home_just_got_a_lot_tastier/&quot;&gt; &lt;img src=&quot;https://b.thumbs.redditmedia.com/AAppyJYGVOPx7tD1os3sqShcdusUs09y-dtRHhDI-Ec.jpg&quot; alt=&quot;Blue Team at home just got a lot tastier&quot; title=&quot;Blue Team at home just got a lot tastier&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/DeathBuffalo&quot;&gt; /u/DeathBuffalo &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/gallery/1aevrjz&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aevrjz/blue_team_at_home_just_got_a_lot_tastier/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aevrjz</id>
+		<media:thumbnail url="https://b.thumbs.redditmedia.com/AAppyJYGVOPx7tD1os3sqShcdusUs09y-dtRHhDI-Ec.jpg" />
+		<link href="https://www.reddit.com/r/halo/comments/1aevrjz/blue_team_at_home_just_got_a_lot_tastier/" />
+		<updated>2024-01-30T18:40:59+00:00</updated>
+		<published>2024-01-30T18:40:59+00:00</published>
+		<title>Blue Team at home just got a lot tastier</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/John_Oakenshield</name>
+			<uri>https://www.reddit.com/user/John_Oakenshield</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aez3id/spartans_roll_out/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/amtavs145nfc1.jpeg?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=9882ab3c352b6a81f90245556e07177512bff3cc&quot; alt=&quot;Spartans!!! Roll Out&quot; title=&quot;Spartans!!! Roll Out&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/John_Oakenshield&quot;&gt; /u/John_Oakenshield &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/amtavs145nfc1.jpeg&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aez3id/spartans_roll_out/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aez3id</id>
+		<media:thumbnail url="https://preview.redd.it/amtavs145nfc1.jpeg?width=320&amp;crop=smart&amp;auto=webp&amp;s=9882ab3c352b6a81f90245556e07177512bff3cc" />
+		<link href="https://www.reddit.com/r/halo/comments/1aez3id/spartans_roll_out/" />
+		<updated>2024-01-30T20:55:29+00:00</updated>
+		<published>2024-01-30T20:55:29+00:00</published>
+		<title>Spartans!!! Roll Out</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Kiwibirbbb</name>
+			<uri>https://www.reddit.com/user/Kiwibirbbb</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Imma be honest, they should’ve made this a battle pass. There’s like 9 different armor bundles to buy in the store right now for 18 dollars each and atleast half of them could’ve been a battle pass or event. New core is awesome but making us have to buy basically every cosmetic for it is ridiculous (yes I know there’s cross-core, doesn’t really make it better). EDIT: my bad, only one bundle and seven sets (still way to much)&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Kiwibirbbb&quot;&gt; /u/Kiwibirbbb &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aewq5b/they_shouldve_of_made_a_battle_pass_for_the_new/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aewq5b/they_shouldve_of_made_a_battle_pass_for_the_new/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_1aewq5b</id>
+		<link href="https://www.reddit.com/r/halo/comments/1aewq5b/they_shouldve_of_made_a_battle_pass_for_the_new/" />
+		<updated>2024-01-30T19:19:03+00:00</updated>
+		<published>2024-01-30T19:19:03+00:00</published>
+		<title>They should’ve of made a battle pass for the new core instead of putting basically every single cosmetic in the shop.</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/les-miserable-man</name>
+			<uri>https://www.reddit.com/user/les-miserable-man</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1af668i/samuel034_has_finally_come_home/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/7dadoc37nofc1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f012de0ad145d4a6d29d373a8dd0ae0386e7de43&quot; alt=&quot;Samuel-034 has finally come home...&quot; title=&quot;Samuel-034 has finally come home...&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/les-miserable-man&quot;&gt; /u/les-miserable-man &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/7dadoc37nofc1.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1af668i/samuel034_has_finally_come_home/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1af668i</id>
+		<media:thumbnail url="https://preview.redd.it/7dadoc37nofc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f012de0ad145d4a6d29d373a8dd0ae0386e7de43" />
+		<link href="https://www.reddit.com/r/halo/comments/1af668i/samuel034_has_finally_come_home/" />
+		<updated>2024-01-31T01:59:29+00:00</updated>
+		<published>2024-01-31T01:59:29+00:00</published>
+		<title>Samuel-034 has finally come home...</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/UnHappyGingah</name>
+			<uri>https://www.reddit.com/user/UnHappyGingah</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aewp0r/for_once_ill_just_leave_it_99_default/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/8y33kacmnmfc1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=a5542ab42604338862e2e715f14c030e921f78da&quot; alt=&quot;For once, I'll just leave it 99% default&quot; title=&quot;For once, I'll just leave it 99% default&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/UnHappyGingah&quot;&gt; /u/UnHappyGingah &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/8y33kacmnmfc1.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aewp0r/for_once_ill_just_leave_it_99_default/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aewp0r</id>
+		<media:thumbnail url="https://preview.redd.it/8y33kacmnmfc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=a5542ab42604338862e2e715f14c030e921f78da" />
+		<link href="https://www.reddit.com/r/halo/comments/1aewp0r/for_once_ill_just_leave_it_99_default/" />
+		<updated>2024-01-30T19:17:51+00:00</updated>
+		<published>2024-01-30T19:17:51+00:00</published>
+		<title>For once, I'll just leave it 99% default</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/nix144</name>
+			<uri>https://www.reddit.com/user/nix144</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aewc1m/rip_and_tear/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/vvk436uzkmfc1.png?width=320&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=e1f1df97592342b384e61df0ebefec470c8c3ea8&quot; alt=&quot;RIP AND TEAR&quot; title=&quot;RIP AND TEAR&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/nix144&quot;&gt; /u/nix144 &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/vvk436uzkmfc1.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aewc1m/rip_and_tear/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aewc1m</id>
+		<media:thumbnail url="https://preview.redd.it/vvk436uzkmfc1.png?width=320&amp;crop=smart&amp;auto=webp&amp;s=e1f1df97592342b384e61df0ebefec470c8c3ea8" />
+		<link href="https://www.reddit.com/r/halo/comments/1aewc1m/rip_and_tear/" />
+		<updated>2024-01-30T19:03:24+00:00</updated>
+		<published>2024-01-30T19:03:24+00:00</published>
+		<title>RIP AND TEAR</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/mastromattei</name>
+			<uri>https://www.reddit.com/user/mastromattei</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;80% of the (what would be season 6) update is paid cosmetics, and extremely pricey ones too. There&amp;#39;s a few bug fixes here and there + a couple forge changes but barely any main multiplayer content, new playlists or netcode fixes (its been years), weapons, vehicles etc. What are your thoughts on this? &lt;/p&gt; &lt;p&gt;I personally think we already have a million billion cosmetic items and they should focus on gameplay additions. Plus its weird that they dropped a 20 tier mini battlepass with so many pay wall blocked items in the shop at insane prices. &lt;/p&gt; &lt;p&gt;343 was doing so well with sandbox additions and playlists its sad to see them shift priority back to the shop&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/mastromattei&quot;&gt; /u/mastromattei &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aey5gf/the_fashion_shows_are_nice_and_the_new_armor_is/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aey5gf/the_fashion_shows_are_nice_and_the_new_armor_is/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_1aey5gf</id>
+		<link href="https://www.reddit.com/r/halo/comments/1aey5gf/the_fashion_shows_are_nice_and_the_new_armor_is/" />
+		<updated>2024-01-30T20:17:03+00:00</updated>
+		<published>2024-01-30T20:17:03+00:00</published>
+		<title>The fashion shows are nice and the new armor is cool but..</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Isaacruder</name>
+			<uri>https://www.reddit.com/user/Isaacruder</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;!-- SC_OFF --&gt;&lt;div class=&quot;md&quot;&gt;&lt;p&gt;Veteran player, can’t bother to play with…one new map, no new weapons or vehicles and a sad BP. What a shame.&lt;/p&gt; &lt;/div&gt;&lt;!-- SC_ON --&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Isaacruder&quot;&gt; /u/Isaacruder &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aeyxdy/hate_to_admit_it_butupdate_sucks/&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aeyxdy/hate_to_admit_it_butupdate_sucks/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt;</content>
+		<id>t3_1aeyxdy</id>
+		<link href="https://www.reddit.com/r/halo/comments/1aeyxdy/hate_to_admit_it_butupdate_sucks/" />
+		<updated>2024-01-30T20:48:22+00:00</updated>
+		<published>2024-01-30T20:48:22+00:00</published>
+		<title>Hate to admit it but…update sucks?</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/ActuallyGrunty</name>
+			<uri>https://www.reddit.com/user/ActuallyGrunty</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1afcfdo/anyone_else_just_use_the_plain_mkiv_looks_so/&quot;&gt; &lt;img src=&quot;https://a.thumbs.redditmedia.com/wrve_bQB23PdD3US9rZbLFlahEcVxcSJXcPJ6o3vd24.jpg&quot; alt=&quot;Anyone else just use the plain MKIV? Looks so perfect&quot; title=&quot;Anyone else just use the plain MKIV? Looks so perfect&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/ActuallyGrunty&quot;&gt; /u/ActuallyGrunty &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/gallery/1afcfdo&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1afcfdo/anyone_else_just_use_the_plain_mkiv_looks_so/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1afcfdo</id>
+		<media:thumbnail url="https://a.thumbs.redditmedia.com/wrve_bQB23PdD3US9rZbLFlahEcVxcSJXcPJ6o3vd24.jpg" />
+		<link href="https://www.reddit.com/r/halo/comments/1afcfdo/anyone_else_just_use_the_plain_mkiv_looks_so/" />
+		<updated>2024-01-31T07:36:48+00:00</updated>
+		<published>2024-01-31T07:36:48+00:00</published>
+		<title>Anyone else just use the plain MKIV? Looks so perfect</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/IMC_Pilot_Freelancer</name>
+			<uri>https://www.reddit.com/user/IMC_Pilot_Freelancer</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1af46u5/campaign_coatings_are_cross_core_on_mk_iv_but_not/&quot;&gt; &lt;img src=&quot;https://external-preview.redd.it/c2tzM2o0OXc2b2ZjMVla2kUgUOH3tpVw6kmiu7vUdI09HCTl_Rnw_NXnXO0i.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=ea7af820a4d4ebb2c346c015448ce36915f7836f&quot; alt=&quot;Campaign coatings are cross core on MK IV but not any other core&quot; title=&quot;Campaign coatings are cross core on MK IV but not any other core&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/IMC_Pilot_Freelancer&quot;&gt; /u/IMC_Pilot_Freelancer &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://v.redd.it/5gdtrjel6ofc1&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1af46u5/campaign_coatings_are_cross_core_on_mk_iv_but_not/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1af46u5</id>
+		<media:thumbnail url="https://external-preview.redd.it/c2tzM2o0OXc2b2ZjMVla2kUgUOH3tpVw6kmiu7vUdI09HCTl_Rnw_NXnXO0i.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=ea7af820a4d4ebb2c346c015448ce36915f7836f" />
+		<link href="https://www.reddit.com/r/halo/comments/1af46u5/campaign_coatings_are_cross_core_on_mk_iv_but_not/" />
+		<updated>2024-01-31T00:27:17+00:00</updated>
+		<published>2024-01-31T00:27:17+00:00</published>
+		<title>Campaign coatings are cross core on MK IV but not any other core</title>
+	</entry>
+	<entry>
+		<author>
+			<name>/u/Haijakk</name>
+			<uri>https://www.reddit.com/user/Haijakk</uri>
+		</author>
+		<category term="halo" label="r/halo"/>
+		<content type="html">&lt;table&gt; &lt;tr&gt;&lt;td&gt; &lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aevxio/new_sandbox_item_the_sandwich/&quot;&gt; &lt;img src=&quot;https://preview.redd.it/bpnxgp1aimfc1.png?width=640&amp;amp;crop=smart&amp;amp;auto=webp&amp;amp;s=f5640e3156a9c535275673bcb5553a1ac52ce4f6&quot; alt=&quot;New Sandbox Item: The Sandwich&quot; title=&quot;New Sandbox Item: The Sandwich&quot; /&gt; &lt;/a&gt; &lt;/td&gt;&lt;td&gt; &amp;#32; submitted by &amp;#32; &lt;a href=&quot;https://www.reddit.com/user/Haijakk&quot;&gt; /u/Haijakk &lt;/a&gt; &lt;br/&gt; &lt;span&gt;&lt;a href=&quot;https://i.redd.it/bpnxgp1aimfc1.png&quot;&gt;[link]&lt;/a&gt;&lt;/span&gt; &amp;#32; &lt;span&gt;&lt;a href=&quot;https://www.reddit.com/r/halo/comments/1aevxio/new_sandbox_item_the_sandwich/&quot;&gt;[comments]&lt;/a&gt;&lt;/span&gt; &lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;</content>
+		<id>t3_1aevxio</id>
+		<media:thumbnail url="https://preview.redd.it/bpnxgp1aimfc1.png?width=640&amp;crop=smart&amp;auto=webp&amp;s=f5640e3156a9c535275673bcb5553a1ac52ce4f6" />
+		<link href="https://www.reddit.com/r/halo/comments/1aevxio/new_sandbox_item_the_sandwich/" />
+		<updated>2024-01-30T18:47:31+00:00</updated>
+		<published>2024-01-30T18:47:31+00:00</published>
+		<title>New Sandbox Item: The Sandwich</title>
+	</entry>
+</feed>
