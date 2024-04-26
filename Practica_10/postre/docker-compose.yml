@@ -1,0 +1,25 @@
+services:
+
+  postgres:
+    image: postgres
+    container_name: postre
+    environment:
+      POSTGRES_PASSWORD: pass
+    ports:
+      - 1234:5432
+    volumes:
+      - postre_vol:/var/lib/postgresql/data
+
+  mariadb:
+    image: mariadb:latest
+    container_name: mariadb-volum
+    environment:
+      MARIADB_ROOT_PASSWORD: system
+    ports:
+      - 3309:3306
+    volumes:
+      - DAM1B:/var/lib/mysql
+
+volumes: 
+  postre_vol:
+  DAM1B:

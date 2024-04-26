@@ -1,0 +1,14 @@
+version: "3.9"
+services:
+  mariadb:
+    image: mariadb:latest
+    container_name: maria-volum
+    environment:
+      MARIADB_ROOT_PASSWORD: system
+    ports:
+      - 3309:3306
+    volumes:
+      - DAM1B: /var/lib/mysql
+
+volumes:
+  DAM1B:
