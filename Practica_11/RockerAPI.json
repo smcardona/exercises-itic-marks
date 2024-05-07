@@ -1,0 +1,37 @@
+{
+    "start": {
+        "title": "Titulo de la room o fase <opcional>",
+        "message": "Mensaje para mostrar en cada fase o room",
+        "image": "https://www.bricomoraleja.com/wp-content/uploads/2021/12/BRUSELAS-GRIS-OSCURO-1-1.jpg",
+        "choices": [
+            {
+                "label": "Puerta",
+                "api": {
+                    "method": "GET",
+                    "uri": "/start-puerta"
+                }
+            },
+            {
+                "label": "Pasillo",
+                "api": {
+                    "method": "GET",
+                    "uri": "/start-puerta"
+                }
+            }
+        ]
+    },
+    "start-puerta": {
+        "message": "Bla blabla ganaste",
+        "image": "mio.txt",
+        "choices": [
+            {
+                "label": "Return",
+                "api": {
+                    "method": "GET",
+                    "uri": "/start"
+                }
+            }
+        ]
+    },
+    "user-pokemon-pick": []
+}

@@ -1,0 +1,44 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Rescate Pokemon</title>
+        <link rel="stylesheet" href="style.css">
+    </head>
+    <body>
+        <div id="container">
+            <div id="game-info">
+                <h1>Infiltración a la base del Equipo Cohete: Rescate Pokémon</h1>
+                <h2>Lore rescatar pokemon!</h2>
+                <p>
+                    Mas Lore Rocket no sq eue
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Repellat distinctio neque quo corporis cupiditate laudantium sed pariatur 
+                    odit at obcaecati blanditiis, natus ut alias, perspiciatis iusto quis, in commodi? Quod. 
+                </p>
+                <button onclick="start()">Jogar</button>
+            </div>
+
+            <div id="render" hidden>
+                <h1 id="title">Ejemplo titulo de fase</h1>
+                <p id="message">
+                    Ejemplo de mensaje explicativo de una fase:
+                    Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorum laborum hic veritatis maxime saepe.
+                    Lorem ipsum, dolor sit amet consectetur adipisicing elit. Tenetur, aliquid!
+                </p>
+                <img id="scene" src="https://www.freeiconspng.com/thumbs/pokeball-png/file-pokeball-png-0.png" alt="JSON_API_IMAGE">
+                <div id="choices">
+                    <!-- buttons -->
+                    <button onclick="processChoice('/start-puerta')">Label en api</button>
+                    <button onclick="processChoice('/start-pasillo')">Label en api</button>
+                </div>
+                <div id="input" hidden>
+                    <!-- input fields -->
+                </div>
+            </div>
+            
+        </div>
+        <script src="render.js"></script>
+    </body>
+</html>

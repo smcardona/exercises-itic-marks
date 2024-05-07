@@ -1,0 +1,21 @@
+To run this app with the same environment we used, you require:
+
+node v20+
+If you dont have it, you can use nvm for installing it or the next command:
+ $ sudo apt install nodejs=20.x.x
+
+npm
+You can install it via apt
+ $ sudo apt install npm
+
+json-server package installed globally for super user
+Can be installed with npm, and it must be for super user if you wanna use normal http port 80.
+If you cant use super user, you can install locally but then modify the port manually on "./public/index.js"
+for the one your json-server is using.
+Command for installation for super user is:
+ $ sudo npm install json-server --global
+Command for normal user is:
+ $ npm install json-server --global
+
+
+

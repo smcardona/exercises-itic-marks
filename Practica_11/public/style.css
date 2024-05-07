@@ -1,0 +1,40 @@
+:root {
+    --color1: #f00;
+}
+
+body * {
+    /* develpment style only */
+    border: solid black 1px;
+    background-color: #fff4;
+}
+
+body {
+    background-color: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#container {
+    background-color: var(--color1);
+    margin: 20px;
+    padding: 15px;
+}
+
+#container>div {
+    margin: 10px auto;
+    max-width: 60%;
+}
+
+#game-info {
+    padding: 10px;
+    max-width: 70%;
+}
+
+h1 {
+    color: aliceblue;
+    text-align: center;
+}
+
+#scene {
+    width: 40%;
+    height: fit-content;
+}
