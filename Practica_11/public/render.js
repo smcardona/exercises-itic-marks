@@ -1,4 +1,4 @@
-// setting
+// debug settings
 const PORT = 80; // change if you are using diferent
 const HOST = 'localhost';
 const BASE_URI = `http://${HOST}:${PORT}`;
@@ -13,6 +13,9 @@ const rMessage = document.getElementById('message');
 const rImage = document.getElementById('scene');
 const rChoices = document.getElementById('choices');
 
+// aditional base data
+let startData = null;
+(async () => startData = await getApiData('/start'))();
 
 function render(data) {
     // render or hide title
@@ -20,9 +23,12 @@ function render(data) {
         rTitle.innerHTML = data.title;
         rTitle.removeAttribute('hidden');
     }
-    else rTitle.hidden = true
+    else rTitle.hidden = true;
 
-    rMessage.innerHTML = data.message;
+    rMessage.innerHTML =
+        Array.isArray(data.message) ?
+            data.message.join('') :
+            data.message;
 
     if (data.image) {
         rImage.setAttribute('src', data.image);
@@ -42,44 +48,62 @@ function render(data) {
 
 
 function start() {
-    // Fetch starting data
-    fetch(BASE_URI + '/start')
-        .then(res => res.json())
-        .then(fase => {
-            render(fase);
+    try {
+        // apply fields to the template
+        render(startData);
+        // hide info
+        info.hidden = true;
+        // unhide interaction plane
+        renderPlane.removeAttribute('hidden');
 
-            info.hidden = true;
-            renderPlane.removeAttribute('hidden');
-        })
-        .catch(error => console.error('Error fetching data:', error));
+    }
+    catch (e) { console.error(e) };
 }
 
 // Function to process choice
 function processChoice(apiData) {
     const { method, uri } = apiData;
-    const query = {
-        method,
-        headers: { 'Content-Type': 'application/json' },
-    }
+    const request = { method: method };
+
     if (method != 'GET') {
-        query.body = apiData.body ? JSON.stringify(body) : {};
+        request.headers = { 'Content-Type': 'application/json' };
+        request.body = apiData.body ? JSON.stringify(apiData.body) : undefined;
     }
 
-    fetch(BASE_URI + uri, query)
-        .then(response => {
-            if (!response.ok) {
-                throw new Error('Failed to process choice');
+    getApiData(uri, request)
+        .then(async response => {
+            // Here checks if response requires a condition, if not then redirect
+            if (response.depends) {
+                const dependency = await getApiData(response.depends.uri);
+                if (dependency == null ||
+                    response.depends.compare_with != dependency.value
+                ) {
+                    const redirectData = await getApiData(response.depends.redirect);
+                    render(redirectData);
+                    return;
+                }
             }
 
-            // Optionally, you can handle success response here
-            console.log('Choice processed successfully ' + uri);
-            return response.json()
-        })
-        .then(data => {
-            if (data.redirect)
-                render(redirect)
-            else
-                render(data)
+
+            if (apiData.redirect) {
+                const redirectData = await getApiData(apiData.redirect);
+                render(redirectData);
+            }
+            else render(response)
         })
         .catch(error => console.error('Error processing choice:', error));
+}
+
+async function getApiData(uri, request = { method: "GET" }) {
+    return fetch(uri, request)
+        .then(apiResponse => {
+            if (!apiResponse.ok) {
+                throw new Error('Failed to getApiData: ' + apiResponse.status);
+            }
+            // Se puede hacer mas cosas aqui, pero no hace falta
+            console.log('Uri fetch successful ' + BASE_URI + uri);
+            return apiResponse.json();
+
+        })
+        .catch(e => console.error(e.message))
 }
