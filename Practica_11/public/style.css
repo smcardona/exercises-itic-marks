@@ -5,16 +5,21 @@
 body * {
     /* develpment style only */
     border: solid black 1px;
-    background-color: #fff4;
+    background-color: rgba(255, 255, 255, 0.288);
 }
 
 body {
-    background-color: grey;
+    background-color: rgb(255, 117, 117);
     font-family: 'Courier New', Courier, monospace;
 }
 
 #container {
     background-color: var(--color1);
+    background-image: url(https://images.wikidexcdn.net/mwuploads/wikidex/0/02/latest/20231226202856/Pok%C3%A9_Ball_%28Ilustraci%C3%B3n%29.png);
+    background-repeat: repeat;
+    background-size: 150px 150px;
+    background-origin: content-box;
+    background-clip: content-box;
     margin: 20px;
     padding: 15px;
 }

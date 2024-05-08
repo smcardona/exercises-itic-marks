@@ -2,26 +2,35 @@
     "start": {
         "title": "Titulo de la room o fase <opcional>",
         "message": "Mensaje para mostrar en cada fase o room",
-        "image": "https://www.bricomoraleja.com/wp-content/uploads/2021/12/BRUSELAS-GRIS-OSCURO-1-1.jpg",
+        "image": "./img/Fase1.png",
         "choices": [
             {
-                "label": "Puerta",
+                "label": "Puerta 1",
                 "api": {
                     "method": "GET",
-                    "uri": "/start-puerta"
+                    "uri": "/start-puerta1",
+                    "depends": "/user-items/key"
                 }
             },
             {
-                "label": "Pasillo",
+                "label": "Elevador",
                 "api": {
                     "method": "GET",
-                    "uri": "/start-puerta"
+                    "uri": "/start-elevador",
+                    "depends": "/user-pick/key"
+                }
+            },
+            {
+                "label": "Puerta 2",
+                "api": {
+                    "method": "GET",
+                    "uri": "/start-puerta2"
                 }
             }
         ]
     },
-    "start-puerta": {
-        "message": "Bla blabla ganaste",
+    "start-puerta1": {
+        "message": "Cerrada. Necesitas una llave para entrar",
         "image": "mio.txt",
         "choices": [
             {
@@ -33,5 +42,53 @@
             }
         ]
     },
-    "user-pokemon-pick": []
+    "start-elevador": {
+        "message": "Cerrado. Necesitas una llave para entrar",
+        "image": "mio.txt",
+        "choices": [
+            {
+                "label": "Return",
+                "api": {
+                    "method": "GET",
+                    "uri": "/start"
+                }
+            }
+        ]
+    },
+    "start-puerta2": {
+        "message": "Cerrado. Necesitas una llave para entrar",
+        "image": "mio.txt",
+        "choices": [
+            {
+                "label": "Return",
+                "api": {
+                    "method": "GET",
+                    "uri": "/start-teletransportadores"
+                }
+            }
+        ]
+    },
+    "start-teletransportadores": {
+        "message": "",
+        "image": "mio.txt",
+        "choices": [
+            {
+                "label": "Return",
+                "api": {
+                    "method": "GET",
+                    "uri": "/start"
+                }
+            }
+        ]
+    },
+    "user-items": [
+        {
+            "id": "pokemon",
+            "value": "none"
+        },
+        {
+            "id": "llave",
+            "value": "false"
+        }
+    ]
 }
